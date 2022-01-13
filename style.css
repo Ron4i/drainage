@@ -55,7 +55,7 @@ table {
     width: 250px;
     height: 150px;
     border: 15px solid transparent;
-    border-image: url("../img/кладка4.png");
+    border-image: url("img/masonry4.png");
     border-image-slice: 11;
     border-image-repeat: round;
     border-bottom: 0px solid transparent;
@@ -683,7 +683,7 @@ table {
 .building__foundment {
     width: 450px;
     height: 30px;
-    background: url("../img/кладка.png") repeat-x;
+    background: url("img/masonry.png") repeat-x;
     background-size: contain;
     z-index: 1;
 }
